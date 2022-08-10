@@ -1,0 +1,36 @@
+//$fa-font-path: '~@fortawesome/fontawesome-pro/webfonts';
+//@import '~@fortawesome/fontawesome-pro/scss/fontawesome';
+//@import '~@fortawesome/fontawesome-pro/scss/solid';
+//@import '~@fortawesome/fontawesome-pro/scss/regular';
+//@import '~@fortawesome/fontawesome-pro/scss/light';
+
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('@/assets/fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-Black';
+  src: url('@/assets/fonts/Montserrat/Montserrat-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('@/assets/fonts/Montserrat/Montserrat-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  src: url('@/assets/fonts/Montserrat/Montserrat-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('@/assets/fonts/Montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-SemiBold-Italic';
+  src: url('@/assets/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf') format('truetype');
+}

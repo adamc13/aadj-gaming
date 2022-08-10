@@ -1,0 +1,15 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/esbuild","time":"2022-07-27T15:34:08Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nanoid","time":"2022-07-27T15:34:08Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/parser","time":"2022-07-27T15:34:08Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/resolve","time":"2022-07-27T15:34:08Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rollup","time":"2022-07-27T15:34:08Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/vite","time":"2022-07-27T15:34:08Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@vue/compiler-sfc/node_modules/.bin/parser","time":"2022-07-27T15:34:09Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@vue/reactivity-transform/node_modules/.bin/parser","time":"2022-07-27T15:34:09Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/@vue/server-renderer/node_modules/.bin/parser","time":"2022-07-27T15:34:10Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/loader-utils/node_modules/.bin/json5","time":"2022-07-27T15:34:13Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/postcss/node_modules/.bin/nanoid","time":"2022-07-27T15:34:13Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/postcss-selector-parser/node_modules/.bin/cssesc","time":"2022-07-27T15:34:13Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/vite/node_modules/.bin/esbuild","time":"2022-07-27T15:34:16Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/vite/node_modules/.bin/rollup","time":"2022-07-27T15:34:16Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/vue/node_modules/.bin/parser","time":"2022-07-27T15:34:16Z"}
